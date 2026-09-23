@@ -2,11 +2,12 @@ module GoAnotherOpera
 
 go 1.26.0
 
+require github.com/imroc/req/v3 v3.61.0
+
 require (
 	github.com/andybalholm/brotli v1.2.4 // indirect
 	github.com/google/go-querystring v1.2.0 // indirect
 	github.com/icholy/digest v1.2.0 // indirect
-	github.com/imroc/req/v3 v3.61.0 // indirect
 	github.com/klauspost/compress v1.20.0 // indirect
 	github.com/quic-go/qpack v0.6.0 // indirect
 	github.com/quic-go/quic-go v0.63.0 // indirect
