@@ -9,6 +9,7 @@ require (
 	github.com/google/go-querystring v1.2.0 // indirect
 	github.com/icholy/digest v1.2.0 // indirect
 	github.com/klauspost/compress v1.20.0 // indirect
+	github.com/mappu/miqt v0.14.0 // indirect
 	github.com/quic-go/qpack v0.6.0 // indirect
 	github.com/quic-go/quic-go v0.63.0 // indirect
 	github.com/refraction-networking/utls v1.8.2 // indirect
